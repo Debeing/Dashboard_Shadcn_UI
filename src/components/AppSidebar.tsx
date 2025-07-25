@@ -75,7 +75,7 @@ const AppSidebar = () => {
             <SidebarMenuButton asChild>
               <Link href="/">
                 <Image
-                  src="/public/Geek.jpg"
+                  src="/public/1000078676.png"
                   alt="logo"
                   width={20}
                   height={20}
@@ -216,7 +216,7 @@ const AppSidebar = () => {
               <DropdownMenuTrigger asChild>
                 <SidebarMenuButton>
                   <User2 />
-                  John Doe
+                  Eric Dev
                   <ChevronUp className="ml-auto" />
                 </SidebarMenuButton>
               </DropdownMenuTrigger>
