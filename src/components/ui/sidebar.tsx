@@ -144,6 +144,7 @@ function SidebarProvider({
           )}
           {...props}
         >
+          
           {children}
         </div>
       </TooltipProvider>
